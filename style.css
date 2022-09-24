@@ -1,0 +1,17 @@
+#education {
+    color: red;
+    align-self: auto;
+}
+#internships {
+    color: lightseagreen;
+    align-items: center;
+}
+.rohan {
+    color: blueviolet;
+    font-size:large;
+
+}
+#projects {
+    color: brown;
+    align-items: center;
+}
